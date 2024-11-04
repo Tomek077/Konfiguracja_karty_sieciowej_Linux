@@ -1,0 +1,1 @@
+# Konfiguracja_karty_sieciowej_Linux
